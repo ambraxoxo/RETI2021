@@ -79,6 +79,7 @@ public class Server {
                         msg = charBuffer.toString();
                         System.out.println("received message" + msg);
                         if(msg.length() > 0){
+                            msg += " - Echoed by server";
                             SocketChannel sChannel2 = (SocketChannel) key.channel();
                             ByteBuffer buffer2 = ByteBuffer.wrap(msg.getBytes());
                             sChannel2.write(buffer2);
