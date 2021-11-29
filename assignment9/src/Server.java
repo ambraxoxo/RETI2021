@@ -63,7 +63,7 @@ public class Server {
                     SocketChannel client = server.accept();
                     System.out.println("accepted connection from" + client);
                     client.configureBlocking(false);
-                    SelectionKey key2 = client.register(selector, SelectionKey.OP_WRITE);
+
 
                 }else if(key.isReadable()){
                     SocketChannel sChannel = (SocketChannel) key.channel();
@@ -81,7 +81,7 @@ public class Server {
                         if(msg.length() > 0){
                             SocketChannel sChannel2 = (SocketChannel) key.channel();
                             ByteBuffer buffer2 = ByteBuffer.wrap(msg.getBytes());
-                            sChannel.write(buffer);
+                            sChannel2.write(buffer2);
                         }
                     }
                 }
