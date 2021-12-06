@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AmbraProj/AmbraProj.iml" filepath="$PROJECT_DIR$/AmbraProj/AmbraProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment1_reti/Assignment1_reti.iml" filepath="$PROJECT_DIR$/Assignment1_reti/Assignment1_reti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RETI.iml" filepath="$PROJECT_DIR$/.idea/RETI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment10/assignment10.iml" filepath="$PROJECT_DIR$/assignment10/assignment10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment2/assignment2.iml" filepath="$PROJECT_DIR$/assignment2/assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment3/assignment3.iml" filepath="$PROJECT_DIR$/assignment3/assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment4/assignment4.iml" filepath="$PROJECT_DIR$/assignment4/assignment4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment5/assignment5.iml" filepath="$PROJECT_DIR$/assignment5/assignment5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment6/assignment6.iml" filepath="$PROJECT_DIR$/assignment6/assignment6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment7/assignment7.iml" filepath="$PROJECT_DIR$/assignment7/assignment7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment9/assignment9.iml" filepath="$PROJECT_DIR$/assignment9/assignment9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es1_lez3/es1_lez3.iml" filepath="$PROJECT_DIR$/es1_lez3/es1_lez3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es1_threadpool/es1_threadpool.iml" filepath="$PROJECT_DIR$/es1_threadpool/es1_threadpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es3_threadpool/es3_threadpool.iml" filepath="$PROJECT_DIR$/es3_threadpool/es3_threadpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_l06/es_l06.iml" filepath="$PROJECT_DIR$/es_l06/es_l06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_l5/es_l5.iml" filepath="$PROJECT_DIR$/es_l5/es_l5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_lez8/es_lez8.iml" filepath="$PROJECT_DIR$/es_lez8/es_lez8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_lez9/es_lez9.iml" filepath="$PROJECT_DIR$/es_lez9/es_lez9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esl7/esl7.iml" filepath="$PROJECT_DIR$/esl7/esl7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lez4_es/lez4_es.iml" filepath="$PROJECT_DIR$/lez4_es/lez4_es.iml" />
+    </modules>
+  </component>
+</project>

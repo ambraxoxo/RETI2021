@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.ServerSocket;
 import java.net.*;
 
-public class Server {
+public class ServerMain {
     public static void main(String[] args) {
 
         try(ServerSocket server = new ServerSocket(1500)){
@@ -41,7 +41,7 @@ public class Server {
         }
         writer.write("""
                         HTTP/1.1 200 OK\r
-                        Server: HTTP_Java_Server\r
+                        ServerMain: HTTP_Java_Server\r
                         Content-Type: html\r
                         \r
                         """.getBytes());
